@@ -1,6 +1,13 @@
 # Example Canvas React TypeScript
 
 Small example React application showing how to use a Canvas with React and TypeScript.
+Check out the following files:
+
+* apps/secondbrain/src/app/components/
+* apps/secondbrain/src/app/hooks/
+* apps/secondbrain/src/app/app.tsx
+
+The code is based on a few articles (referenced in the sources).
 
 This project was generated using [Nx](https://nx.dev).
 
